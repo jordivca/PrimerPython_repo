@@ -1,0 +1,1 @@
+"D:\ANALYTIC_PYTHON\EntornoPython\venv\Scripts\python.exe" "D:\ANALYTIC_PYTHON\EntornoPython\ETL1_V2python.py"
